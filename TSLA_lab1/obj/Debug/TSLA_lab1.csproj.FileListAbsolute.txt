@@ -1,0 +1,9 @@
+/Users/irazozulya/Projects/TSLA_lab1/TSLA_lab1/bin/Debug/TSLA_lab1.exe
+/Users/irazozulya/Projects/TSLA_lab1/TSLA_lab1/bin/Debug/TSLA_lab1.pdb
+/Users/irazozulya/Projects/TSLA_lab1/TSLA_lab1/bin/Debug/LanguageChecker.dll
+/Users/irazozulya/Projects/TSLA_lab1/TSLA_lab1/bin/Debug/LanguageChecker.pdb
+/Users/irazozulya/Projects/TSLA_lab1/TSLA_lab1/obj/Debug/TSLA_lab1.csprojAssemblyReference.cache
+/Users/irazozulya/Projects/TSLA_lab1/TSLA_lab1/obj/Debug/TSLA_lab1.csproj.CoreCompileInputs.cache
+/Users/irazozulya/Projects/TSLA_lab1/TSLA_lab1/obj/Debug/TSLA_lab1.csproj.CopyComplete
+/Users/irazozulya/Projects/TSLA_lab1/TSLA_lab1/obj/Debug/TSLA_lab1.exe
+/Users/irazozulya/Projects/TSLA_lab1/TSLA_lab1/obj/Debug/TSLA_lab1.pdb
